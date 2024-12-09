@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning Manything
+- 🔭 I’m currently working on Graphics Design
+- 🌱 I’m currently learning about myself
 <!--
 **iamsk007/iamsk007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
